@@ -15,8 +15,8 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "Elixir e Phoenix do Zero! - O primeiro curso de Elixir e Phoenix do zero em Português"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+keywords:    "elixir, phoenix, curso, udemy"
+description: "Um curso de Elixir e Phoenix do zero em Português."
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-172805460-1
